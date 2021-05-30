@@ -1,19 +1,22 @@
 ### Hi there , I'm Tanveen Kaur </a>
 
-<h1>I am a Web Developer and a Cloud Practitioner from India</h1>
-- I am a student, currently pursuing my Bachelors in Technology in Information Technology . <br>
-- You can check out my projects on my <a href="https://tanveenkaur.github.io/">portfolio!</a><br>
-- Internships:<br>
-                     💻 Inventif Web as a Marketing Intern (Dec 2020 - Jan 2021)<br>
-                     💻 Verzeo as an Azure Architect Intern (May 2020 - Jul 2020)<br>
-- Trying hands on data structures and algorithms (competitive programming) as well.
+<h1>A Web Developer and a Cloud Practitioner from India</h1>
+
+• I am a student, currently pursuing my Bachelors in Technology in Information Technology . <br>
+• You can check out my projects on my <a href="https://tanveenkaur.github.io/">portfolio!</a><br>
+• I have interned at:<br>
+                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Inventif Web as a Marketing Intern (Dec 2020 - Jan 2021 <br />
+                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Verzeo as an Azure Architect Intern (May 2020 - Jul 2020)<br>
+• Trying hands on data structures and algorithms (competitive programming) as well.
 <p float="left"> 
  
-Connect with me:<br>
-Website : https://tanveenkaur.github.io/ </br>
-LinkedIn : https://www.linkedin.com/in/tanveen-kaur-a62444199/ <br>
-Email : <a href="mailto:tanveenahujaa@gmail.com">tanveenahujaa@gmail.com</a> <br>
-Instagram : https://www.instagram.com/tanveen_ahujaa/
+<!-- <h3 align="left">Connect with me:</h3> -->
+  Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/tanveen-kaur-a62444199/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/linkedin-512.png" alt="tanveen-kaur-a62444199/" height="35" width="35" /></a>
+  <a href="mailto: tanveenahujaa@gmail.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/mail-512.png"  height="35" width="35" /></a>
+<a href="https://instagram.com/tanveen_ahujaa" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-1/1024/instagram-512.png" alt="tanveen_ahujaa" height="35" width="35" /></a>
+</p>
 
 </p>
 📌 Languages and Tools:
@@ -34,19 +37,3 @@ Instagram : https://www.instagram.com/tanveen_ahujaa/
 <img src="https://i0.wp.com/restfulapi.net/wp-content/uploads/rest.png?ssl=1" width="40" height="40" />
 
 </p>
-
-
-<!--
-**tanveenkaur/tanveenkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
