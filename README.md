@@ -3,7 +3,6 @@
 <h1>A Web Developer and a Cloud Practitioner from India</h1>
 
 • I am a student, currently pursuing my Bachelors in Technology in Information Technology . <br>
-• You can check out my projects on my <a href="https://tanveenkaur.github.io/">portfolio!</a><br>
 • I have interned at:<br>
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Inventif Web as a Marketing Intern (Dec 2020 - Jan 2021) <br />
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Verzeo as an Azure Architect Intern (May 2020 - Jul 2020)<br>
