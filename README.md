@@ -2,7 +2,7 @@
 
 <!--<h1>A Web Developer and a Cloud Practitioner from India</h1>-->
 
-• I am a final year student pursuing my Bachelors in Information Technology . <br>
+• I am a final year student pursuing Bachelors in Information Technology . <br>
 • I have interned at:<br>
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Inventif Web as a Marketing Intern (Dec 2020 - Jan 2021) <br />
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Verzeo as an Azure Architect Intern (May 2020 - Jul 2020)<br>
